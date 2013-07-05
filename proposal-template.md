@@ -26,7 +26,7 @@ Driven by the desire for understanding complex matters Daan is always on the loo
 Previous Experiences
 --------------------
 
-JFall 2011, Software Craftsmanship 2012, JFall 2012, JSConf EU 2012, SPA 2013
+JFall 2011, Software Craftsmanship 2012, JFall 2012, JSConf EU 2012, SPA 2013, Arrrcamp 2013
 
 Title
 -----
